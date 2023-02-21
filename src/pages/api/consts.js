@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://magnificent-rose-antelope.cyclic.app/api'
